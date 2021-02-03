@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on THINK OF IT
-- 🌱 I’m currently learning ...Node.js ,web development
+- 🔭 I’m currently working on Srchout
+- 🌱 I’m currently learning ...LARAVEL ,web development
 - ⚡ Fun fact: Love Coding
 
