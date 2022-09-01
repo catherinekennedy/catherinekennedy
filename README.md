@@ -1,5 +1,5 @@
 ### Hi there 👋
 # welcome all
-- 🌱 I’m currently learning ...LARAVEL
+- 🌱 I’m currently learning ...angular
 - ⚡ Fun fact: Love Coding
 
