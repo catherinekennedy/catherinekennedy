@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning Angular 
 
-- 💬 Ask me about **Laravel & Angular**
+- 💬 Ask me about **Angular & Nodejs**
 
 - 📫 How to reach me **catherinekennedy312@gmail.com**
 
